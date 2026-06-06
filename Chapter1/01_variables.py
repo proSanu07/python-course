@@ -1,9 +1,7 @@
 a = 1
-
 b = 2
-
 c = 9
 
-name = "harry" 
+name = "Sanika" 
 
 print(a+b)

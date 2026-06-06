@@ -1,9 +1,7 @@
 a = 13
-
 aaa = 283
 
 harry = 33
-
 sanika = 2005
 
 _sanika = 34
